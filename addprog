@@ -11,3 +11,6 @@ int z;
 z=x+y;
 printf("Sum of 2 numbers %d", z);
 #end
+
+
+#new part of code to add
