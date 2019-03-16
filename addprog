@@ -2,6 +2,7 @@ Knowledge is power
 Power is everything
 # include <stdio.h>
 void main()
+#start
 int x,y;
 printf(" Enter x");
 scanf("%d", &x);
@@ -9,5 +10,5 @@ printf(" Enter y");
 scanf("%d", &y);
 int z;
 z=x+y;
-printf("Sum of 2 numbers")
-scanf
+printf("Sum of 2 numbers %d", z);
+#end
